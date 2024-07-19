@@ -16,6 +16,7 @@ Grandes telas: acima de 1200px
 
     main > section#login {
         width: 80vw;
+        height: 280px;
     }
 
     main > section#login div#foto {
@@ -39,6 +40,7 @@ Grandes telas: acima de 1200px
 
     main > section#login {
         width: 800px;
+        height: 350px;
     }
 
     main > section#login div#foto {
@@ -60,5 +62,6 @@ Grandes telas: acima de 1200px
 
     section#login > div#form > p {
         font-size: 1.2em;
+        margin: 20px 0px;
     }
 }
